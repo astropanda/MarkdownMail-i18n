@@ -1,28 +1,29 @@
 ## MarkdownMail
 
-This is MarkdownMail, a new app from [Second Gear](http://www.secondgearsoftware.com) that makes it really easy to compose HTML email using the ever popular Markdown markup language. 
+Willkommen bei MarkdownMail, der neuen App von [Second Gear](http://www.secondgearsoftware.com), mit der das Erstellen von HTML Mail durch die Markdown Markup Sprache super einfach wird. 
 
-## Features
+## Funktionen
 
-* Compose HTML emails using Markdown syntax
-* Save drafts of your messages in progress
-* Preview your messages before posting them
-* Email raw markdown source to your Posterous blog or other service
-* Copy generated HTML to your clipboard
-* TextExpander touch support
+* HTML Mails mit der Markdown Markup Syntax erstellen.
+* Entwürfe sichern.
+* Bevor Sie die Nachricht verschicken, können Sie sie in einer Vorschau prüfen.
+* Senden Sie Ihre mit Markdown formatierten Inhalten direkt an Posterous, Tumblr oder andere Dienste, die Markdown unterstützen.
+* Kopieren Sie die HTML Ergebnisse in die Zwischenablage Ihres iOS Geräts.
+* Markdown Syntax kann in der App nachgelesen werden.
+* Unterstützung für TextExpander touch.
 
-## Support & Feedback
+## Unterstützung & Feedback
 
-If you have any questions about how to use MarkdownMail, want to suggest a new feature or just want to say hi, send us an email. 
+Wenn Sie Fragen zu MarkdownMail haben, eine Funktion vorschlagen wollen, oder einfach mal nur 'Hallo' sagen wollen, senden Sie uns eine Mail.
 
-Second Gear Feedback Line: support@secondgearsoftware.com
+Second Gear Feedback: support@secondgearsoftware.com
 
-## Leave Us Reviews
+## Bewerten Sie uns im App Store
 
-If you like MarkdownMail, it would mean a lot if you would take the time to write a review on the App Store for others to see.  Reviews are a key part in ensuring the products success and our ability to release updates.  
+Wenn MarkdownMail Ihnen gefällt würde es uns eine Menge bedeuten, wenn Sie sich die Zeit nehmen eine Kundenbewertung im App Store zu verfassen. Diese Bewertungen sind ein wichtiger Bestandteil des Erfolgs unserer Produkte und sichern so die Weiterentwicklung.
 
-We designed MarkdownMail for ourselves and hope you enjoy using it too.  
- 
+Wir haben MarkdownMail für unsere eigenen Bedürfnisse entwickelt und hoffen, dass Sie ebenfalls Freude an unserem Produkt haben!
+
 **Second Gear**
 
 * Web: http://www.secondgearsoftware.com  
