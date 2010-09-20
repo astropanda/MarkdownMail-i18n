@@ -7,8 +7,9 @@ If you're interested in maintaining a language or have any feedback on an existi
 ## Current Language Maintainers ##
 
 * English - [Second Gear](http://github.com/secondgear)
+* German - [ElGrowZone](http://github.com/elgrowzone)
+* Italian - [astropanda](http://github.com/astropanda)
 * French - 
-* German - 
 * Spanish - 
 
 ## How to Help ##
