@@ -1,0 +1,41 @@
+MarkdownMail è il modo più semplice per comporre email sul vostro iPhone o iPod touch usando il codice HTML.  Utilizzando la famosa codifica Markdown di John Gruber, potrete inviare email con testo in grassetto e corsivo, elenchi puntati ed altro.    MarkdownMail provvederà a convertire i vostri messaggi formattati con la sintassi Markdown in un messaggio HTML da poter inviare ad amici, familiari e colleghi.  
+
+CARATTERISTICHE
+
+- Scrivete email in HTML utilizzando la sintassi Markdown
+- Archiviate le bozze dei vostri messaggi
+- Visualizzate l'anteprima dei vostri messaggi prima di inviarli
+- Inviate email formattate in Markdown ai vostri account Posterous, Tumblr e altri servizi di terze parti che supportano il linguaggio Markdown.
+- Copiate il codice HTML generato negli appunti
+- Visualizzate la sintassi Markdown all'interno dell'applicazione
+- Supporto a TextExpander touch
+- Assistenza clienti gratuita via email
+
+REQUISITI
+
+- iPhone o iPod touch con iOS 4
+
+SUPPORTO
+
+Si prega di non inviare segnalazioni di bug o richieste di nuove funzioni attraverso l'App Store.  Per assicurarvi una nostra risposta diretta scrivete invece a elements@secondgearsoftware.com.  Potete anche contattarci via Twitter tramite l'account @secondgear (http://twitter.com/secondgear) o iscrivervi alla nostra pagina su Facebook (http://facebook.com/secondgearsoftware).  Siamo sempre felici di aiutare in nostri utenti e ricevere i loro commenti!
+
+Grazie!
+
+======
+
+Grazie per aver sostenuto il lancio di MarkdownMail.  Abbiamo lavorato sodo per creare una nuova versione che aggiungesse molte delle funzioni da voi richieste.
+
+* [NUOVO] Supporto nativo per iPad 
+* [NUOVO] Aggiunta la possibilità di creare e salvare le bozze.
+* [NUOVO] Aggiunta la possibilità di spedire direttamente la sintassi Markdown così da poter creare via email nuovi post nei blog basati su Tumblr o Posterous.  
+* [NUOVO] Aggiunta la possibilità di copiare il codice HTML negli appunti
+* [CAMBIATO] Il font dell'anteprima web è ora Helvetica
+* [CAMBIATO] Aggiornato all'ultima versione del TextExpander SDK
+* [CORRETTO] MarkdownMail per iPhone adesso supporta  VoiceOver
+* [CORRETTO] La sintassi web può essere ora zoomata con un doppio tap
+
+Se avete apprezzato MarkdownMail, assicuratevi di votare ogni nuova versione con 5 stelle su App Store.  Buone recensioni dai nostri clienti assicurano aggiornamenti e nuove funzioni, inoltre consentono ai nuovi clienti di vedere quanta gente apprezzi MarkdownMail.
+
+Si prega di non inviare segnalazioni di bug o richieste di nuove funzioni attraverso l'App Store.  Per assicurarvi una nostra risposta diretta scrivete invece a elements@secondgearsoftware.com.  Potete anche contattarci via Twitter tramite l'account @secondgear (http://twitter.com/secondgear) o iscrivervi alla nostra pagina su Facebook (http://facebook.com/secondgearsoftware).  Siamo sempre felici di aiutare in nostri utenti e ricevere i loro commenti!
+
+Grazie!
