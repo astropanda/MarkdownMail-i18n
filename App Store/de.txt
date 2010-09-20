@@ -1,41 +1,41 @@
-MarkdownMail is the easiest way to compose HTML emails on your iPhone or iPod touch.  Based around John Gruber's popular Markdown markup syntax, you can now send emails with bold text, italics, bulleted lists and more.    MarkdownMail will convert your Markdown formatted messages into an HTML message that you can send to your friends, family or colleagues.  
+MarkdownMail ist die einfachste Lösung HTML Mail auf Ihrem iPhone oder iPod touch zu verfassen. Auf der Basis von John Grubers populärer Markdown Markup Syntax können Sie Mails in fettem Text oder kursiv setzen, Aufzählungslisten erstellen und vieles mehr. MarkdownMail konvertiert diese Nachrichten in HTML, welches Sie an Ihre Freunde, Kollegen oder Ihre Familien schicken können.
 
-FEATURES
+FUNKTIONEN
 
-- Write HTML emails using the Markdown markup syntax
-- Store drafts of your messages
-- Preview your message before sending
-- Email Markdown formatted content to your Posterous, Tumblr or other third-party service that supports emailing Markdown.
-- Copy generated HTML to your iOS device's clipboard
-- View Markdown syntax in-app
-- TextExpander touch support
-- Free customer support via email
+- HTML Mails mit der Markdown Markup Syntax erstellen.
+- Entwürfe sichern.
+- Bevor Sie die Nachricht verschicken, können Sie sie mit einer Vorschau prüfen.
+- Senden Sie Ihre mit Markdown formatierten Inhalten direkt an Posterous, Tumblr oder andere Dienste, die Markdown unterstützen.
+- Kopieren Sie die HTML Ergebnisse in die Zwischenablage Ihres iOS Geräts.
+- Markdown Syntax kann in der App nachgelesen werden.
+- Unterstützung für TextExpander touch.
+- Kostenloser Support per Mail.
 
-REQUIREMENTS
+VORAUSSETZUNGEN
 
-- iPhone or iPod touch running iOS 4
+- iPhone oder iPod touch mit iOS 4
 
 SUPPORT
 
-Please refrain from sending your bug reports or feature requests using the App Store.  Instead, to ensure a direct response from us send them to elements@secondgearsoftware.com.  You can also tweet us at @secondgear (http://twitter.com/secondgear) or Like us on Facebook (http://facebook.com/secondgearsoftware).  We're always happy to help our users and receive their comments!
+Bitte nehmen Sie davon Abstand, Fehler oder Verbesserungsvorschläge direkt im App Store zu äußern. Für einen besseren Informationsaustausch senden Sie stattdessen bitte eine Mail an elements@secondgearsoftware.com. Sie erreichen uns auch über Twitter unter @secondgear (http://twitter.com/secondgear) oder drücken Sie Ihr Gefallen für uns bei Facebook aus (http://facebook.com/secondgearsoftware). Wir freuen uns immer Ihnen helfen zu können und sind gespannt auf Ihre Kommentare.
 
-Thank you!
+Vielen Dank!
 
 ======
 
-Thank you for supporting MarkdownMail's launch.  We've been hard at work in the Second Gear garage making a new version that adds many features of the features you've requested.
+Vielen Dank für die Unterstützung bei MarkdownMails Start.  Wir in der Second Gear Garage haben hart an der neuen Version gearbeitet, und eine Menge der von Ihnen gewünschten Funktionen eingebaut.
 
-* [NEW] Native iPad version
-* [NEW] Added support for creating and saving drafts.
-* [NEW] Added support for emailing raw Markdown syntax so you can email in blog posts to your Tumblr or Posterous blogs.  
-* [NEW] Added support for copying the generated HTML to your iOS device's clipboard
-* [CHANGE] Adjusted preview web view font to Helvetica
-* [CHANGE] Updated to latest version of TextExpander SDK
-* [FIX] MarkdownMail for iPhone is now VoiceOver friendly
-* [FIX] Syntax web view should be zoomable by double tap
+* [NEU] iPad Version.
+* [NEU] Erstellen und sichern von Entwürfen.
+* [NEU] Unterstützung für das versenden von Markdown Dateien, damit diese direkt in Ihren Tumblr oder Posterous Blog eingefügt werden können.
+* [NEU] HTML kann jetzt in die Zwischenablage Ihres iOS Geräts kopiert werden.
+* [ÄNDERUNG] Vorschau wird jetzt in Helvetica angezeigt.
+* [ÄNDERUNG] Unterstützung der aktuellen Version des TextExpander SDK.
+* [FEHLER BEHOBEN] MarkdownMail FÜR iPhone unterstützt jetzt VoiceOver.
+* [FEHLER BEHOBEN] Syntax Webview kann jetzt mit Zweifach 
 
-If you enjoy MarkdownMail, please be sure to rate each new version 5 stars on the App Store.  High reviews from our customers ensure future updates to apps and allow new customers to see how many people enjoy MarkdownMail.
+Wenn MarkdownMail Ihnen gefällt, dann bewerten Sie bitte jede neue Version im App Store mit fünf Sternen! Hohe Bewertungen von unseren Kunden sicher die Zukunft unserer Apps und zeigen potentiellen Kunden wie sehr Sie MarkdownMail mögen.
 
-Please refrain from sending your bug reports or feature requests using the App Store.  Instead, to ensure a direct response from us send them to support@secondgearsoftware.com. You can also tweet us at @secondgear (http://twitter.com/secondgear) or Like us on Facebook (http://facebook.com/secondgearsoftware).  We're always happy to help our users and receive their comments!
+Bitte nehmen Sie davon Abstand, Fehler oder Verbesserungsvorschläge direkt im App Store zu äußern. Für einen besseren Informationsaustausch senden Sie stattdessen bitte eine Mail an elements@secondgearsoftware.com. Sie erreichen uns auch über Twitter unter @secondgear (http://twitter.com/secondgear) oder drücken Sie Ihr Gefallen für uns bei Facebook aus (http://facebook.com/secondgearsoftware). Wir freuen uns immer Ihnen helfen zu können und sind gespannt auf Ihre Kommentare.
 
-Thank you!
+Vielen Dank!
