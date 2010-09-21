@@ -7,7 +7,7 @@ Willkommen bei MarkdownMail, der neuen App von [Second Gear](http://www.secondge
 * HTML Mails mit der Markdown Markup Syntax erstellen.
 * Entwürfe sichern.
 * Bevor Sie die Nachricht verschicken, können Sie sie in einer Vorschau prüfen.
-* Senden Sie Ihre mit Markdown formatierten Inhalten direkt an Posterous, Tumblr oder andere Dienste, die Markdown unterstützen.
+* Senden Sie Ihre mit Markdown formatierten Inhalten direkt an Posterous oder andere Dienste, die Markdown unterstützen.
 * Kopieren Sie die HTML Ergebnisse in die Zwischenablage Ihres iOS Geräts.
 * Markdown Syntax kann in der App nachgelesen werden.
 * Unterstützung für TextExpander touch.

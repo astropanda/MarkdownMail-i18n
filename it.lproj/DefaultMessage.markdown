@@ -7,7 +7,7 @@ Questa è MarkdownMail, una nuova app sviluppata da [Second Gear](http://www.sec
 * Scrivete email in HTML utilizzando la sintassi Markdown
 * Archiviate le bozze dei vostri messaggi
 * Visualizzate l'anteprima dei vostri messaggi prima di inviarli
-*Inviate email formattate in Markdown ai vostri account Posterous, Tumblr o altri servizi
+*Inviate email formattate in Markdown ai vostri account Posterous o altri servizi
 * Copiate il codice HTML generato negli appunti
 * Supporto a TextExpander touch
 

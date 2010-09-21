@@ -5,7 +5,7 @@ FEATURES
 - Write HTML emails using the Markdown markup syntax
 - Store drafts of your messages
 - Preview your message before sending
-- Email Markdown formatted content to your Posterous, Tumblr or other third-party service that supports emailing Markdown.
+- Email Markdown formatted content to your Posterous or other third-party service that supports emailing Markdown.
 - Copy generated HTML to your iOS device's clipboard
 - View Markdown syntax in-app
 - TextExpander touch support
@@ -27,7 +27,7 @@ Thank you for supporting MarkdownMail's launch.  We've been hard at work in the 
 
 * [NEW] Native iPad version
 * [NEW] Added support for creating and saving drafts.
-* [NEW] Added support for emailing raw Markdown syntax so you can email in blog posts to your Tumblr or Posterous blogs.  
+* [NEW] Added support for emailing raw Markdown syntax so you can email in blog posts to your Posterous blogs.  
 * [NEW] Added support for copying the generated HTML to your iOS device's clipboard
 * [CHANGE] Adjusted preview web view font to Helvetica
 * [CHANGE] Updated to latest version of TextExpander SDK

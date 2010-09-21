@@ -5,7 +5,7 @@ FUNKTIONEN
 - HTML Mails mit der Markdown Markup Syntax erstellen.
 - Entwürfe sichern.
 - Bevor Sie die Nachricht verschicken, können Sie sie mit einer Vorschau prüfen.
-- Senden Sie Ihre mit Markdown formatierten Inhalten direkt an Posterous, Tumblr oder andere Dienste, die Markdown unterstützen.
+- Senden Sie Ihre mit Markdown formatierten Inhalten direkt an Posterous oder andere Dienste, die Markdown unterstützen.
 - Kopieren Sie die HTML Ergebnisse in die Zwischenablage Ihres iOS Geräts.
 - Markdown Syntax kann in der App nachgelesen werden.
 - Unterstützung für TextExpander touch.
@@ -27,7 +27,7 @@ Vielen Dank für die Unterstützung bei MarkdownMails Start.  Wir in der Second 
 
 * [NEU] iPad Version.
 * [NEU] Erstellen und sichern von Entwürfen.
-* [NEU] Unterstützung für das versenden von Markdown Dateien, damit diese direkt in Ihren Tumblr oder Posterous Blog eingefügt werden können.
+* [NEU] Unterstützung für das versenden von Markdown Dateien, damit diese direkt in Ihren Posterous Blog eingefügt werden können.
 * [NEU] HTML kann jetzt in die Zwischenablage Ihres iOS Geräts kopiert werden.
 * [ÄNDERUNG] Vorschau wird jetzt in Helvetica angezeigt.
 * [ÄNDERUNG] Unterstützung der aktuellen Version des TextExpander SDK.

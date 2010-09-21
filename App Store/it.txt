@@ -5,7 +5,7 @@ CARATTERISTICHE
 - Scrivete email in HTML utilizzando la sintassi Markdown
 - Archiviate le bozze dei vostri messaggi
 - Visualizzate l'anteprima dei vostri messaggi prima di inviarli
-- Inviate email formattate in Markdown ai vostri account Posterous, Tumblr e altri servizi di terze parti che supportano il linguaggio Markdown.
+- Inviate email formattate in Markdown ai vostri account Posterous e altri servizi di terze parti che supportano il linguaggio Markdown.
 - Copiate il codice HTML generato negli appunti
 - Visualizzate la sintassi Markdown all'interno dell'applicazione
 - Supporto a TextExpander touch
@@ -27,7 +27,7 @@ Grazie per aver sostenuto il lancio di MarkdownMail.  Abbiamo lavorato sodo per 
 
 * [NUOVO] Supporto nativo per iPad 
 * [NUOVO] Aggiunta la possibilità di creare e salvare le bozze.
-* [NUOVO] Aggiunta la possibilità di spedire direttamente la sintassi Markdown così da poter creare via email nuovi post nei blog basati su Tumblr o Posterous.  
+* [NUOVO] Aggiunta la possibilità di spedire direttamente la sintassi Markdown così da poter creare via email nuovi post nei blog basati su Posterous.  
 * [NUOVO] Aggiunta la possibilità di copiare il codice HTML negli appunti
 * [CAMBIATO] Il font dell'anteprima web è ora Helvetica
 * [CAMBIATO] Aggiornato all'ultima versione del TextExpander SDK
