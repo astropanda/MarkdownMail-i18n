@@ -5,7 +5,7 @@
 "Are you sure you want to erase this text?" = "Sei sicuro di vole eliminare il testo?";
 
 /* No comment provided by engineer. */
-"Can't Send Mail" = "Impossibile inviare";
+"Can't Send Mail" = "Impossibile inviare email";
 
 /* No comment provided by engineer. */
 "Cancel" = "Annulla";
@@ -74,7 +74,7 @@
 "Support" = "Supporto";
 
 /* No comment provided by engineer. */
-"Syntax Reference" = "Referenza Sintsassi";
+"Syntax Reference" = "Referenza Sintassi";
 
 /* No comment provided by engineer. */
 "Thanks" = "Grazie";
